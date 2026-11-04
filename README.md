@@ -125,7 +125,7 @@ Open the Ubuntu terminal.
 Run:
 
 ```bash
-ip a
+ip -4 addr
 ```
 
 Identify the network interface and assigned IPv4 address.
