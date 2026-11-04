@@ -1,4 +1,3 @@
-### IMPORTANT: THIS IS JUST A ROUGH DRAFT, I AM STILL MISSING IMGS
 # Ubuntu Linux Integration with Windows Server 2022 Active Directory
 
 ## Project Overview
