@@ -185,6 +185,9 @@ Expected result:
 ```text
 changserver.com: 10.0.2.5
 ```
+If I getting a different ip, it means my dns is not configured correctly.
+use this "sudo resolvectl dns enp0s3 10.0.2.5"
+        -Note the ip above can be check with ipconfig in window server
 
 Next, verify the LDAP service record:
 
